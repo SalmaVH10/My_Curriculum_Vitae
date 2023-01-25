@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    color: rgba(209, 35, 35, 0.788);
+    font-size:larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3{
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
+
+body{
+    background-color: rgb(16, 232, 240);
+}
+
+img{
+    display: block;
+    margin: auto;
+}
